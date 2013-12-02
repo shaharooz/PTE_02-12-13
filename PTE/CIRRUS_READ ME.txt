@@ -1,0 +1,57 @@
+
+
+Steps to follow:
+
+Step 1:
+
+Cirrus_PTE_Employees(add,edit,delete).jmx
+Cirrus_PTE_Locations(add,edit,delete).jmx
+Cirrus_PTE_Assets(add,edit,delete).jmx
+
+
+  The above are the Scripts for ADD,Edit,Delete of Employees,Locations,Assets.
+
+ 
+
+step 2:
+
+Cirrus_PTE_Assignment&TransferAssets.jmx
+
+  
+   The above script is to Change the employee and Transfer the assets.
+
+
+
+Step 3:
+
+
+Cirrus_PTE_AllTransactions.jmx
+
+   
+    The above script contains all The scripts under one Testplan.
+
+
+step 4:
+
+Cirrus_PTE_Assests(Add&Delete)_WEB.jmx
+
+
+     The above script is to add and delete of an asset under the loop forever using WEB Interface.
+
+
+step 5:
+
+
+Cirrus_PTE_Assets(add,delete)_API.jmx
+
+
+      The above script is to add and delete of an asset under the loop forever using API Interface.
+ 
+
+
+
+
+  
+
+
+
